@@ -1,0 +1,27 @@
+{
+  "name": "email-sender",
+  "version": "1.0.0",
+  "description": "Email sender application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MANDATEJA/email-sender.git"
+  },
+  "keywords": [
+    "email",
+    "development",
+    "learning"
+  ],
+  "author": "mandmint",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MANDATEJA/email-sender/issues"
+  },
+  "homepage": "https://github.com/MANDATEJA/email-sender#readme",
+  "dependencies": {
+    "nodemailer": "^6.9.0"
+  }
+}
